@@ -20,6 +20,7 @@ To install the necessary modules, from the main application run "npm install" in
 ## Usage
 
 Run "npm run develop" to start the application.  Run "npm run build" to build the application in a dist folder.
+![Screenshot of Book Search](Assets/Screenshot.png)
 
 ## License
 
